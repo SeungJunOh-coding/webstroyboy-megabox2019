@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+09_1280_Grid_푸터@2.psd filter=lfs diff=lfs merge=lfs -text
